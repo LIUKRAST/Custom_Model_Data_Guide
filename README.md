@@ -165,7 +165,7 @@ Now, add on the next line - ```"property": "minecraft:custom_model_data",```
 }  
 ```  
 
-then you add the 'fallback' texture, so basically the texture this used to point to. In this case, iron nugget. Add
+then you add the 'fallback' model, so basically the model this used to point to. In this case, iron nugget. Add
 `"fallback": {}` and then basically the original contents of the file into the brackets
 
 ```json  
